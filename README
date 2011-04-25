@@ -1,0 +1,17 @@
+Compilation
+==============
+
+make
+
+
+
+Running
+==============
+
+./catharsis
+
+
+
+WARNING!
+-------------
+This is a daemon.
